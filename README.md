@@ -1,1 +1,1 @@
-Functional component
+Calendar component
